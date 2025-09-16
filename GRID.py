@@ -1,4 +1,4 @@
-from pydraw import *
+import pydraw
 
 screenMain = screen(1000, 800, 'GRID-OS')
 running = True
